@@ -1,6 +1,6 @@
 # test1
 testing
-SN1 Eduardo M Nogoy Jr 917053 PN
+SN1 NOGOY PN
 
 cody
 ITASC
